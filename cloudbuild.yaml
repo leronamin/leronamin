@@ -1,2 +1,3 @@
 steps:
   - name: string
+tags: [ttag1, ttag2]
